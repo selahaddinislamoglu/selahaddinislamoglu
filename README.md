@@ -1,8 +1,8 @@
 # Selahaddin Islamoglu
 
-Welcome !
+Software Developer
 
-Summary will be here soon :)
+8 years of expertise in developing communication applications, software, and firmware solutions. Demonstrated proficiency in collaborating effectively with diverse international teams. Highly skilled in C and C++ programming for Linux and RTOS platforms. Introductory experience in Go, Java, and JavaScript (Node.js)
 
 You can find more about me in these links
 
