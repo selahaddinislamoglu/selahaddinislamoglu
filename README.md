@@ -2,7 +2,10 @@
 
 Software Developer | C | C++ | Go
 
-8 years of expertise in developing communication applications, software, and firmware solutions. Demonstrated proficiency in collaborating effectively with diverse international teams. Highly skilled in C programming for Linux and RTOS platforms. Experienced in C++ and Go (Golang).
+8+ years of expertise in developing telecommunication software and firmware solutions.
+Demonstrated proficiency in collaborating effectively with diverse international teams.
+Highly skilled in C programming in system-level development on Linux and RTOS platforms.
+Experienced in C++ and Go (Golang), with exposure to backend and distributed systems. 
 
 You can find more about me in these links
 
